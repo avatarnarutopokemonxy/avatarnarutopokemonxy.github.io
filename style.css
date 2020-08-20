@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+}
+
+#header {
+    border: 1px solid black;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#group1 {
+    background-color: white;
+}
+
+#group2 {
+    background: linear-gradient(#b19cd9, #008080);
+}
+
+.groups {
+    border: 1px solid black;
+    margin-top: -1px;
+}
+
+.groups img {
+    height: 200px;
+}
+
